@@ -1,0 +1,24 @@
+{
+  "name": "bot-shapiro",
+  "version": "1.0.0",
+  "description": "This bot simulates a debate with Ben Shapiro.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/funkadelic83/bot-shapiro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/funkadelic83/bot-shapiro/issues"
+  },
+  "homepage": "https://github.com/funkadelic83/bot-shapiro#readme",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-simple-chatbot": "^0.6.1"
+  }
+}
